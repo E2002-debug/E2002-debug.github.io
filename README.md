@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Actualmente, estudio Ingenieria en Ciencias de la computacion en la Universidad Nacional de Loja  
 <!--
 **E2002-debug/E2002-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
