@@ -20,14 +20,10 @@ Mi nombre es Lisbeth Estefania Cale Bravo, actualmente estoy estudiando la carre
 - Conocimientos básicos en Java y Python.
 Actualmente  estudio Ingenieria en Ciencias de la Computacion en la Universidad Nacional de Loja
 
-#Habilidades 
 
-Conozco en lenguaje de programacion C  y  Python
+                                               CONTACTOS
 
-#Cursos
-
-
-
+Correo Electronico  lisbeth.cale@unl.edu.ec
 <!--
 **E2002-debug/E2002-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
